@@ -9,3 +9,16 @@ aeiouaoeiuv/zb:gros
 aeiouaoeiuv/zb:mr813
 aeiouaoeiuv/zb:release
 aeiouaoeiuv/zb:buildroot
+
+aeiouaoeiuv/alpine:ffmpeg
+
+aeiouaoeiuv/node:hexo
+
+aeiouaoeiuv/ak:rk3326
+
+aeiouaoeiuv/ubuntu:ros2_galactic
+aeiouaoeiuv/ubuntu:ros2_humble
+aeiouaoeiuv/ubuntu:ls_icons
+aeiouaoeiuv/ubuntu:doxygen
+aeiouaoeiuv/ubuntu:nerd_font_patcher
+aeiouaoeiuv/ubuntu:html_to_pdf

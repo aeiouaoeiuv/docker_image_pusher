@@ -22,3 +22,5 @@ aeiouaoeiuv/ubuntu:ls_icons
 aeiouaoeiuv/ubuntu:doxygen
 aeiouaoeiuv/ubuntu:nerd_font_patcher
 aeiouaoeiuv/ubuntu:html_to_pdf
+
+aeiouaoeiuv/ubuntu_home_dir:24.04
